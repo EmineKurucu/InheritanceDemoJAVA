@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class TarimKrediManager extends BaseKrediManager {
 
-public class TarimKrediManager {
 }

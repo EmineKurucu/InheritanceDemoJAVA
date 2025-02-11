@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InheritanceDemoJAVA.iml" filepath="$PROJECT_DIR$/InheritanceDemoJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceBanka.iml" filepath="$PROJECT_DIR$/InheritanceBanka.iml" />
     </modules>
   </component>
 </project>

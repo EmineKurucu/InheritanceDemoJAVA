@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class OgretmenKrediManager extends BaseKrediManager{
 
-public class OgretmenKrediManager {
 }
